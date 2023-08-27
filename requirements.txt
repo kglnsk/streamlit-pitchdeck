@@ -1,0 +1,6 @@
+pandas 
+numpy
+streamlit-reveal-slides
+openai
+langchain
+markdown
